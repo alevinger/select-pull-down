@@ -1,0 +1,9 @@
+.Icon {
+    width: 15px;
+    height: 15px;
+    padding: 10px;
+    color: #777;
+    float: right;
+    box-sizing: border-box;
+    cursor: pointer;
+}

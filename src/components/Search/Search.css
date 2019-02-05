@@ -1,0 +1,18 @@
+.SearchWrapper {
+   position: relative;
+   width: 300px;
+}
+
+.SearchWrapper input {
+  width: 100%;
+  padding: 10px;
+  border: solid 1px #000;
+  box-sizing: border-box;
+}
+
+.SearchWrapper .Icons {
+  position: absolute;
+  width: 100%;
+  top: 0px;
+  right: 10px;
+}
